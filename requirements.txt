@@ -1,0 +1,5 @@
+chromadb
+langchain
+pypdf
+pytest
+streamlit
